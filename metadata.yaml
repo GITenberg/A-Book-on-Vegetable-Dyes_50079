@@ -1,10 +1,16 @@
 _repo: A-Book-on-Vegetable-Dyes_50079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mairet, Ethel M.
     gutenberg_agent_id: '26225'
     url: http://www.gutenberg.org/2009/agents/26225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50079#A-Book-on-Vegetable-Dyes
 gutenberg_issued: '2015-09-30'
 gutenberg_type: Text
 identifiers:
